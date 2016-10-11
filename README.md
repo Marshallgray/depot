@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app was built following a tutorial in agile-web-development-with-rails-5_b3_0.pdf.
 
-Things you may want to cover:
+- Built with rails 5.0.0.rc1
 
-* Ruby version
+To install:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- git clone
+- bundle
+- rails db:migrate
